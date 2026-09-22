@@ -1,0 +1,11 @@
+{
+  "name": "smart-mine-rescue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend/rover-dashboard run dev",
+    "build": "npm --prefix frontend/rover-dashboard run build",
+    "lint": "npm --prefix frontend/rover-dashboard run lint",
+    "preview": "npm --prefix frontend/rover-dashboard run preview"
+  }
+}

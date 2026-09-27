@@ -57,7 +57,7 @@ The helmet performs sensor sampling, baseline calibration and warning filtering.
 
 A detected **SOS or fall condition is treated as an immediate personal-safety emergency** by the rover risk engine.
 
-<img width="960" height="1280" alt="WhatsApp Image 2026-09-07 at 12 20 04 PM" src="https://github.com/user-attachments/assets/3ccd5549-1454-4f0a-a188-733ae51bef30" />
+<img width="921" height="754" alt="smart-helmet" src="https://github.com/user-attachments/assets/660e7769-6a35-4d03-a43c-bd1e95a660f6" />
 
 
 ---
@@ -79,6 +79,9 @@ The rover acts as a **remote sensing and emergency-support platform**.
 The rover communicates detected hazard states back to the helmet and exposes telemetry to the control dashboard.
 
 **Helmet + Rover = cross-location safety evidence.**
+
+<img width="855" height="1019" alt="rover " src="https://github.com/user-attachments/assets/2b8c4f9c-d98c-463d-a34b-af2e919bab90" />
+
 
 ---
 
@@ -114,6 +117,9 @@ The current prototype implements a **real-time sensor-fusion/rule-based risk eng
 The architecture is modular: the current deterministic engine provides explainable decisions and a foundation for future ML-based anomaly detection and prediction.
 
 > **Engineering honesty:** this repository currently implements sensor-fusion/rule-based scoring; it does not claim a trained ML model where none is implemented.
+
+<img width="1898" height="870" alt="Screenshot 2026-09-06 181717" src="https://github.com/user-attachments/assets/bd3a74e4-c7fa-49f2-92e4-819e14c2bb1f" />
+<img width="1899" height="869" alt="Screenshot 2026-09-06 181327" src="https://github.com/user-attachments/assets/291f7aa0-5cf7-455e-997c-08a79c8a3bce" />
 
 ---
 

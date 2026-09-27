@@ -57,6 +57,9 @@ The helmet performs sensor sampling, baseline calibration and warning filtering.
 
 A detected **SOS or fall condition is treated as an immediate personal-safety emergency** by the rover risk engine.
 
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-07 at 12 20 04 PM" src="https://github.com/user-attachments/assets/3ccd5549-1454-4f0a-a188-733ae51bef30" />
+
+
 ---
 
 # 🤖 02. Smart Rescue Rover
